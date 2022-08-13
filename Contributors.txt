@@ -1,2 +1,4 @@
-1. Kartik Srinivas [CV]
-2. Chirag Mehta [NLP]
+1. Varun (Intro)
+2. Kartik Srinivas [CV]
+3. Chirag Mehta [NLP]
+4. Anudeep [RL]
